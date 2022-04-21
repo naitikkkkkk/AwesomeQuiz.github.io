@@ -7,9 +7,30 @@
     font-family: 'Poppins', sans-serif;
 }
 
-body{
-    background: #007bff;
+.Earth{
+    background: fixed;
+    width:1350px;
+    background-size: cover;
+    position: absolute;
+    right:1;
+    left:1;
+    bottom:0;
+    z-index: -1;
 }
+
+.h1{
+    font-size: 10px;
+    color: #fff;
+    margin-left:42%;
+}
+.logo{
+    margin-top:35px;
+    width:60px;
+    margin-left:48%;
+}
+
+
+ 
 
 ::selection{
     color: #fff;

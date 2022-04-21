@@ -2,141 +2,115 @@
 let questions = [
     {
     numb: 1,
-    question: "Where Is Indra Gandhi Center For Atomic Research Located?",
-    answer: "Tamil Nadu,Kalpakkam",
+    question: "Immersing Yourself Mindfully In Nature Is Known In Japan As 'Shinrin-Yoku'. What Does This Lterally Mean?",
+    answer: "Forest Bathing",
     options: [
-      "Tamil Nadu,Kalpakkam",
-      "Rajasthan,Ajmer",
-      "West Bengal,Kolkata",
-      "Punjab,Chandigrah"
+      "Forest Bathing",
+      "Going Green",
+      "Returning To Your Roots",
+      "enchanting"
     ]
   },
     {
     numb: 2,
-    question: "Full Form Of Amul",
-    answer: "Anand Milk Union Limited",
+    question: "It's Loved To Recycle Plastic That's Dirty,Low Value Or Mis-Sorted .So,Even Through Many Of Us Out Over Plastic Waste In The Blue Bin,What Percentage Of It Actually Gets Recycled?S",
+    answer: "Around 9%",
     options: [
-      "America Milk Union Limited",
-      "Aman Milk United Limited",
-      "Anand Milk Union Limited",
-      "Anil Milk Union Limted"
+      "Around 30%",
+      "Around 50%",
+      "Around 9%",
+      "Around 22%"
     ]
   },
     {
     numb: 3,
-    question: "Who Was The First Women Judge Of The High Court?",
-    answer: "Fatima Biwi",
+    question: "Globally,2020 Was The Hottedt Year So Far On Record?",
+    answer: "True",
     options: [
-    "Fatima Biwi",
-      "Gyan Sugha Misra",
-      "Sujata Manohar",
-      "Ruma Pal"
+    "True",
+      "False"
     ]
   },
     {
     numb: 4,
-    question: "Who Invented Python?",
-    answer: "Guido Van Rossum",
+    question: "So,Far How Many Mass Exinction Events Have There Been In Earth's History?",
+    answer: "Five",
     options: [
-      "Håkon Wium Lie",
-      "Tim Berners-Lee",
-      "Guido Van Rossum",
-      "Lord Lytton"
+      "One",
+      "None",
+      "Five",
+      "Ten"
     ]
   },
     {
     numb: 5,
-    question: "Where Is The Headquarters Of UNESCO Located?",
-    answer: "Paris",
+    question: "In What Year Did The First Earth Take Place?",
+    answer: "1970",
     options: [
-      "Paris",
-      "Tokyo",
-      "California",
-      "Germany"
+      "1970",
+      "1980",
+      "1996",
+      "1974"
     ]
   },
   {
     numb: 6,
-    question: "Who invented HTML?",
-    answer: "Tim Berners Lee",
+    question: "Who Is Called The Father Of Earth Day?",
+    answer: "Gaylord Nelson",
     options: [
-      "Tim Berners Lee",
-      "Lord Canning",
-      "Wium Lie",
-      "Guido Van Rossum"
+      "Wangari Maathai",
+      "Mark Boyle",
+      "Vandana Shiva",
+      "Gaylord Nelson"
     ]
   },
   {
     numb: 7,
-    question: "Which Party Was Formd Of India By A.U Hume?",
-    answer: "India National Congress",
+    question: "Which Is A More Appropriate Reason To Observe The Earth Day Every Yesr?",
+    answer: "To Support For Environmental Protection",
     options: [
-      "India National Congress",
-      "Bhartiya Janta Party",
-      "Communist Party OF India",
-      "Communist Party Of India (Marxist)"
+      "To Save The Ozone Layer",
+      "To Protect The Species",
+      "To Support For Environmental Protection",
+      "None Of The Above"
     ]
   },
 
   {
     numb: 8,
-    question: "Near Which River Statue Of Unity Located?",
-    answer: "Narmada River",
+    question: "How Much Oxygen Does An Average 50 Year Old Tree Provides?",
+    answer: "Enough For 4 Person",
     options: [
-      "Sabarmati River",
-      "Godavri River",
-      "Kaveri River",
-      "Narmada River"
-    ]
-  },
-
-  {
-    numb: 8,
-    question: "Where Is Silicon Valley Located?",
-    answer: "California,U.S",
-    options: [
-      "Heroshima,Japan",
-      "Bengaluru,Karnataka",
-      "California,U.S",
-      "Bejing,China"
-    ]
-  },
-
-  {
-    numb: 8,
-    question: "In Which Year Was The Reserve Bank Of India Established?",
-    answer: "1935",
-    options: [
-      "1949",
-      "1939",
-      "1940",
-      "1935"
+      "Enough For 4 Person",
+      "Enough For 1 Person",
+      "Enough For 8 Person",
+      "Enough For 10 Person"
     ]
   },
 
 
   {
     numb: 9,
-    question: "When was Shri Lata Mangeshkar Died?",
-    answer: "6 Feb 2022",
+    question: "What Was The Purpose Of The National Environmental Education Act Passed By Congress In 1990?",
+    answer: "To require that the united states environmental protection agency be a leader in promoting environmental literacy.",
     options: [
-      "2 Feb 2022",
-      "6 Feb 2022",
-      "10 Feb 2022",
-      "9 Feb 2022"
+      "To establish the office of environmental education.",
+      "To require that the united states environmental protection agency be a leader in promoting environmental literacy.",
+      "Both a&b",
+      "None Of the above"
     ]
   },
 
 
   {
     numb: 10,
-    question: "1024 Kilobytes is equal to?",
-    answer: "1 Megabyte (MB)",
+    question: "Which Land Based Ecosystem Holds the most biodiversity i.e. concentration of plants and animals?",
+    answer: "Tropical Forest",
     options: [
-      "0.5 Megabyte (kb)",
-      "1 Megabyte (MB)",
-      "5 Megabyte (MB)",
-      "1.5 Megabyte (MB)"
+      "South Pacific Island",
+      "African Savannah",
+      "Tropical Forest",
+      "Coral Reefs"
     ]
   },
 
